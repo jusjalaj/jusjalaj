@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating meaningful projects
 - 🌱 I’m currently learning flutter and I'm loving it
 - 💞️ I’m looking to collaborate on awsome startup ideas
-- 📫 How to reach me: +91 8076006622
+- 📫 How to reach me: jusjalaj@gmail.com
 
 <!---
 jusjalaj/jusjalaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
